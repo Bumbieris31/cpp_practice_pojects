@@ -1,1 +1,1 @@
-# cpp_practice_pojects
+# cpp_practice_projects
